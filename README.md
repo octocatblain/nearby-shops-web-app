@@ -20,4 +20,4 @@ A simple location-based web application that lists the shops closest to a userâ€
 - **PROJ.4** -Cartographic Projections library. Itâ€™s an open-source GIS library for easily working with spatial reference systems and projections.
 - **GeoIP** is a library that helps users find geographical information based on an IP address.
 
-<h5 align="center">This project was made by a lover of Coffee :zany_face:</h6>
+<h2 align="center">This project was made by a lover of Coffee :zany_face:</h2>
